@@ -1,1 +1,1 @@
-console.log("Testando controle de codigo remoto");
+console.log("Testando controle de código remoto");
